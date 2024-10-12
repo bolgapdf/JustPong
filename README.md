@@ -35,7 +35,7 @@ This project is a minimalist version of the classic Pong game. The player contro
 
 ![IMG_0235](https://github.com/user-attachments/assets/a3417550-c3ce-4c38-b70f-cb8bde61b0ce)
 
-![Pong Game](./assets/pong_game.gif)
+![giphy](https://github.com/user-attachments/assets/5c1b967e-d3c8-45ef-9dd0-3b85172bd2ec)
 
 ## 🛠️ Challenges and Lessons Learned
 
@@ -44,6 +44,7 @@ This project is a minimalist version of the classic Pong game. The player contro
   * Game Logic: Implementing touch controls and modify ball movement and physics.
   * Collision Detection: Ensuring the ball responds correctly to paddles and screen boundaries.
   * Swift UI Components: Learning to use UIKit/SpriteKit to design game elements.
+
 
 This project helped solidify my understanding of core Swift concepts and introduced me to game development in iOS.
 
