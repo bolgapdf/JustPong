@@ -39,7 +39,7 @@ This project is a minimalist version of the classic Pong game. The player contro
 
 ## 🛠️ Challenges and Lessons Learned
 
-### Being my first Swift project, I encountered and overcame a number of challenges:
+Being my first Swift project, I encountered and overcame a number of challenges:
 
   * Game Logic: Implementing touch controls and modify ball movement and physics.
   * Collision Detection: Ensuring the ball responds correctly to paddles and screen boundaries.
